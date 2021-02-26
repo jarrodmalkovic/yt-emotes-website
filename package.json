@@ -1,0 +1,33 @@
+{
+  "name": "better-yt-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.729.0",
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.23.0",
+    "concurrently": "^5.3.0",
+    "cookie-parser": "^1.4.5",
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "googleapis": "^59.0.0",
+    "mongoose": "^5.9.28",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "nodemon": "^2.0.4",
+    "passport": "^0.4.1",
+    "passport-youtube-v3": "^2.1.0"
+  }
+}

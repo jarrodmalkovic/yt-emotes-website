@@ -1,0 +1,15 @@
+export const ENQUEUE_SNACKBAR = 'ENQUEUE_SNACKBAR';
+export const CLOSE_SNACKBAR = 'CLOSE_SNACKBAR';
+export const REMOVE_SNACKBAR = 'REMOVE_SNACKBAR';
+export const GET_EMOTES = 'GET_EMOTES';
+export const CLEAR_EMOTES = 'CLEAR_EMOTES';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const USER_LOADED = 'USER_LOADED';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const EMOTE_SUBMITTED = 'EMOTE_SUBMITTED';
+export const EMOTE_ADDED = 'EMOTE_ADDED';
+export const EMOTE_REMOVED = 'EMOTE_REMOVED';
+export const EMOTE_DELETED = 'EMOTE_DELETED';
+export const GET_USER = 'GET_USER';
+export const GET_PROFILE = 'GET_PROFILE';
+export const CLEAR_PROFILE = 'CLEAR_PROFILE';
