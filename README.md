@@ -1,4 +1,4 @@
-<h1 align="center">Custom YouTube Emotes Website</h1>
+<h1 align="center">Custom YouTube Emotes</h1>
 
 <h3 align="center">
   <a href="https://github.com/jarrodmalkovic/yt-emotes-extension">Repo for the Browser Extension</a> |
