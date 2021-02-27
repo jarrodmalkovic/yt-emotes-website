@@ -1,4 +1,4 @@
-<h1 align="center">Custom YouTube Emotes</h1>
+<h1 align="center">Custom YouTube Emotes Website</h1>
 
 <h3 align="center">
   <a href="https://github.com/jarrodmalkovic/yt-emotes-extension">Repo for the Browser Extension</a> |
@@ -62,3 +62,12 @@ Project is created with:
 ## ⚖️ License
 
 This project is licensed under the Unlicense License
+
+
+<hr>
+
+<h3>
+  <a href="https://github.com/jarrodmalkovic/yt-emotes-extension">Repo for the Browser Extension</a> |
+  <a href="https://github.com/jarrodmalkovic/yt-emotes-website/issues">Report Bug</a> |
+  <a href="https://github.com/jarrodmalkovic/yt-emotes-website/issues">Request Feature</a> 
+</h3>
