@@ -6,6 +6,7 @@
   <a href="https://github.com/jarrodmalkovic/yt-emotes-website/issues">Request Feature</a> 
 </h3>
 
+![Tech logos](https://i.ibb.co/MC2Yy3s/tech-info-yt-emotes-website.png)
 
 ## 📝 Table of contents
 
